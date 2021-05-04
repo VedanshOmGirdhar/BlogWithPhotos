@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: darkorange;
+    
+}
+img{
+    width: 500px;
+    height: 450px;
+    border-style: solid;
+    padding: 5px;
+    
+}
+div{
+    margin-top: 10px;
+    
+}
+.section1{
+    display: flex;
+    justify-content: center;
+}
+.section_style{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: antiquewhite;
+}
